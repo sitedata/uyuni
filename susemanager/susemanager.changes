@@ -1,3 +1,4 @@
+- internal code cleanup (dropping unused table rhnErrataTmp)
 - fix logrotate config
 - Add missing packages to SLE12 >= SP1 bootstrap data to fix JeOS
   bootstrap problems (bsc#1176913)
